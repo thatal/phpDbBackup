@@ -1,6 +1,5 @@
 <?php
 /**
- * Author: Sunil Thatal
 *09/08/2017
 Wed
 Created By Sunil Thatal
